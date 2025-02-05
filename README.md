@@ -23,6 +23,13 @@ Los productos son obtenidos por medio de endpoints de productos, desde el backen
 ![Graficos](img1.png)
 ![Tabla](img2.png)
 
+## Documentación utilizada
+
+- Nestjs - [https://docs.nestjs.com/](https://docs.nestjs.com/)
+- Redux - [https://redux.js.org/introduction/getting-started](https://redux.js.org/introduction/getting-started)
+- Material UI [https://mui.com/material-ui/getting-started/](https://mui.com/material-ui/getting-started/)
+- Plotly JavaScript - [https://plotly.com/javascript/](https://plotly.com/javascript/)
+
 ## Autor
 
 Carolina Lagos - Ingeniero civil en informática
